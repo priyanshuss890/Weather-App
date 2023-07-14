@@ -11,6 +11,12 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+Frontend Link: https://hvhpzr-3000.csb.app/
+
+Also start the backend by moving to server folder and then running.
+cd server
+node server.js
+
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
